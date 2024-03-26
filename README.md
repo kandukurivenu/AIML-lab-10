@@ -7,4 +7,6 @@
 
 4.[lab-04](https://github.com/Sanathcharan/AIML-lab-10/blob/main/LAB_04.ipynb)
 
+5.[lab-05](https://github.com/Sanathcharan/AIML-lab-10/blob/main/LAB_05.ipynb)
+
 7.[lab-07](https://github.com/Sanathcharan/AIML-lab-10/blob/main/lab-07.ipynb)
