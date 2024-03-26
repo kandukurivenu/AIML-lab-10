@@ -3,6 +3,8 @@
 
 2.[lab-02](https://github.com/Sanathcharan/AIML-lab-10/blob/main/LAB_02.ipynb)
 
-3[lab-03](https://github.com/Sanathcharan/AIML-lab-10/blob/main/LAB_03.ipynb)
+3.[lab-03](https://github.com/Sanathcharan/AIML-lab-10/blob/main/LAB_03.ipynb)
+
+4.[lab-04](https://github.com/Sanathcharan/AIML-lab-10/blob/main/LAB_04.ipynb)
 
 7.[lab-07](https://github.com/Sanathcharan/AIML-lab-10/blob/main/lab-07.ipynb)
